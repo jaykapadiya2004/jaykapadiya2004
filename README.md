@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapadiya2004&show_icons=true&locale=en" alt="jaykapadiya2004" /></p>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykapadiya2004&" alt="jaykapadiya2004" /><img align = 'right' src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhMjA0YXJ2bXdidmZ5aXI1dXZxNnpvbTBhMjVodHdtMnIzd3k3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fU7qfeX8FzfNDuCtn/giphy.webp' width = 400>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykapadiya2004&" alt="jaykapadiya2004" /><img align = 'right' src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhMjA0YXJ2bXdidmZ5aXI1dXZxNnpvbTBhMjVodHdtMnIzd3k3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fU7qfeX8FzfNDuCtn/giphy.webp' width = 300>
 </p>
