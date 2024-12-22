@@ -21,7 +21,7 @@
 <br>
 <img  src = 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif' width = 100% >
 <br>
-
+<img align = 'right' src = 'https://i.gifer.com/15Wy.gif' width = 300>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jay kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay kapadiya" height="30" width="40" /></a>
