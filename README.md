@@ -3,6 +3,7 @@
 
 
 
+<img align ='right' src = 'https://i.gifer.com/S0S.gif' width = 450 >
 
 - 🔭 I’m currently working on [TensorFLow](https://github.com/jaykapadiya2004/Learn-TensorFlow)
 
@@ -13,6 +14,13 @@
 - 📫 How to reach me **jaykapadiya2004@gmail.com**
 
 - ⚡ Fun fact **I geek out on AI**
+
+<br>
+<br>
+<br>
+<br>
+<img  src = 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif' width = 100% >
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
