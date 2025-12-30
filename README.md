@@ -21,7 +21,7 @@
 <br>
 <img  src = 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif' width = 100% >
 <br>
-<img align = 'right' src = 'https://i.gifer.com/15Wy.gif' width = 300>
+<!-- <img align = 'right' src = 'https://i.gifer.com/15Wy.gif' width = 300> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jay kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay kapadiya" height="30" width="40" /></a>
@@ -37,5 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapadiya2004&show_icons=true&locale=en" alt="jaykapadiya2004" /></p>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykapadiya2004&" alt="jaykapadiya2004" /><img align = 'right' src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhMjA0YXJ2bXdidmZ5aXI1dXZxNnpvbTBhMjVodHdtMnIzd3k3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fU7qfeX8FzfNDuCtn/giphy.webp' width = 300>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykapadiya2004&" alt="jaykapadiya2004" />
+  <img align = 'right' src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhMjA0YXJ2bXdidmZ5aXI1dXZxNnpvbTBhMjVodHdtMnIzd3k3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fU7qfeX8FzfNDuCtn/giphy.webp' width = 300>
 </p>
