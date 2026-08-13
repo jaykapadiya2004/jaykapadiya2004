@@ -1,42 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jay Kapadiya</h1>
-<h3 align="center">A passionate AI&ML Engineer from India</h3>
+<h1 align="center">Hi, I'm Jay Kapadiya 👋</h1>
+<h3 align="center">AI/ML Engineer | Backend & DevOps | Python</h3>
 
-
-
-<img align ='right' src = 'https://i.gifer.com/S0S.gif' width = 450 >
-
-- 🔭 I’m currently working on [TensorFLow](https://github.com/jaykapadiya2004/Learn-TensorFlow)
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaykapadiya2004?tab=repositories](https://github.com/jaykapadiya2004?tab=repositories)
-
-- 📫 How to reach me **jaykapadiya2004@gmail.com**
-
-- ⚡ Fun fact **I geek out on AI**
-
-<br>
-<br>
-<br>
-<br>
-<img  src = 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif' width = 100% >
-<br>
-<!-- <img align = 'right' src = 'https://i.gifer.com/15Wy.gif' width = 300> -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jay kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay kapadiya" height="30" width="40" /></a>
-<a href="https://kaggle.com/jaykapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaykapadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/j_kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_kapadiya" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaykapadiya2004/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="32" />
+  </a>
+  <a href="https://kaggle.com/jaykapadiya" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="32" />
+  </a>
+  <a href="mailto:jaykapadiya2004@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="28" width="32" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapadiya2004&show_icons=true&locale=en&layout=compact" alt="jaykapadiya2004" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapadiya2004&show_icons=true&locale=en" alt="jaykapadiya2004" /></p>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykapadiya2004&" alt="jaykapadiya2004" />
-  <img align = 'right' src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhMjA0YXJ2bXdidmZ5aXI1dXZxNnpvbTBhMjVodHdtMnIzd3k3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fU7qfeX8FzfNDuCtn/giphy.webp' width = 300>
+AI/ML Engineer with a B.Tech in Artificial Intelligence & Data Science (9.03 CGPA, top 10% of batch). I build backend AI systems using **FastAPI, LangChain/LangGraph**, and deploy them with **Docker, Ansible, and CI/CD pipelines** — comfortable working across the application, platform, and infrastructure layers.
+
+- 🌱 Currently exploring **Natural Language Processing**
+- 🛠️ Interests: LLM orchestration, agentic workflows, computer vision, deployment automation
+- 👨‍💻 All my projects: **[github.com/jaykapadiya2004](https://github.com/jaykapadiya2004?tab=repositories)**
+- 📫 Reach me at **jaykapadiya2004@gmail.com**
+
+---
+
+### Featured Project
+
+**[Dog-Vision](https://github.com/jaykapadiya2004/Dog-Vision) — Computer Vision & Deep Learning**
+Deep learning image classifier built in TensorFlow using transfer learning to categorize 120 dog breeds across 10,000 images, achieving 93% test accuracy. Applied image preprocessing and model fine-tuning to improve accuracy and inference speed.
+
+---
+
+### Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaykapadiya2004&show_icons=true&locale=en&theme=default" alt="jaykapadiya2004 stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapadiya2004&show_icons=true&locale=en&layout=compact" alt="jaykapadiya2004 top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykapadiya2004" alt="jaykapadiya2004 streak stats" height="165"/>
 </p>
